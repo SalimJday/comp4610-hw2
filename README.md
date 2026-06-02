@@ -6,5 +6,7 @@ The HTML was not modified.
 ## Links
 
 Live page (GitHub Pages):
+https://salimjday.github.io/comp4610-hw2/index.html
 
 GitHub repository:
+https://github.com/SalimJday/comp4610-hw2
